@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Meteo j7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Meteo_j7_jar</output-path>
+    <root id="archive" name="Meteo j7.jar">
+      <element id="module-output" name="Meteo j7" />
+    </root>
+  </artifact>
+</component>
